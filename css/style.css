@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-family: 'Lato', serif !important;
+  font-family: 'Raleway', sans-serif;
   font-size: 30px !important;
   font-weight: normal;
   text-transform: uppercase;
@@ -49,7 +49,8 @@ hr {
   border-top: 2px solid #aeaeae;
 }
 
-ul,li { list-style-type: none;
+ul,
+li { list-style-type: none;
         list-style-position:inside;
         margin:0;
         padding:0; }
